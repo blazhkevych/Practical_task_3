@@ -6,7 +6,6 @@
  I dnem i nochju kot uchenij
  vse hodit po cepi krugomФ
 —опроводить каждую новую строчку тройным звуковым сигналом.
-
 */
 #include <iostream>
 
