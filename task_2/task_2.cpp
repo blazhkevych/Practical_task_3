@@ -1,11 +1,11 @@
-/*
-Задание 2. Создать приложение, которое выводит на
-консоль фразу:
-“U lukomor’a dub zelenij,
+п»ї/*
+Р—Р°РґР°РЅРёРµ 2. РЎРѕР·РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ, РєРѕС‚РѕСЂРѕРµ РІС‹РІРѕРґРёС‚ РЅР°
+РєРѕРЅСЃРѕР»СЊ С„СЂР°Р·Сѓ:
+вЂњU lukomorвЂ™a dub zelenij,
  Zlataya zep na dupe tom,
  I dnem i nochju kot uchenij
- vse hodit po cepi krugom”
-Сопроводить каждую новую строчку тройным звуковым сигналом.
+ vse hodit po cepi krugomвЂќ
+РЎРѕРїСЂРѕРІРѕРґРёС‚СЊ РєР°Р¶РґСѓСЋ РЅРѕРІСѓСЋ СЃС‚СЂРѕС‡РєСѓ С‚СЂРѕР№РЅС‹Рј Р·РІСѓРєРѕРІС‹Рј СЃРёРіРЅР°Р»РѕРј.
 */
 #include <iostream>
 
@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-	cout << "\a\a\a\"U lukomor’a dub zelenij,"
+	cout << "\a\a\a\"U lukomorвЂ™a dub zelenij,"
 		<< "\a\a\a\n Zlataya zep na dupe tom,"
 		<< "\a\a\a\n I dnem i nochju kot uchenij"
 		<< "\a\a\a\n vse hodit po cepi krugom\"" << endl;
