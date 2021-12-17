@@ -11,6 +11,8 @@ using namespace std;
 
 int main()
 {
+	setlocale(LC_ALL, "");
+
 	cout << "Name :\t     \"The war and the peace\""
 		<< "\nAvtor :\t     L.N. Tolstoj"
 		<< "\nIzdatelstvo: Piter"
