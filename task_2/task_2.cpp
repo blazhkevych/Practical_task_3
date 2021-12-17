@@ -13,8 +13,6 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "");
-
 	cout << "\a\a\a\"U lukomor’a dub zelenij,"
 		<< "\a\a\a\n Zlataya zep na dupe tom,"
 		<< "\a\a\a\n I dnem i nochju kot uchenij"

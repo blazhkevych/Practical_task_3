@@ -1,6 +1,6 @@
-/*
-Задание 1. Создать приложение, которое выводит информацию о книге, в следующем формате:
-Name : “The war and the peace”
+п»ї/*
+Р—Р°РґР°РЅРёРµ 1. РЎРѕР·РґР°С‚СЊ РїСЂРёР»РѕР¶РµРЅРёРµ, РєРѕС‚РѕСЂРѕРµ РІС‹РІРѕРґРёС‚ РёРЅС„РѕСЂРјР°С†РёСЋ Рѕ РєРЅРёРіРµ, РІ СЃР»РµРґСѓСЋС‰РµРј С„РѕСЂРјР°С‚Рµ:
+Name : вЂњThe war and the peaceвЂќ
 Avtor : L.N. Tolstoj
 Izdatelstvo: Piter
 Pages : 500.
@@ -11,8 +11,6 @@ using namespace std;
 
 int main()
 {
-	setlocale(LC_ALL, "");
-
 	cout << "Name :\t     \"The war and the peace\""
 		<< "\nAvtor :\t     L.N. Tolstoj"
 		<< "\nIzdatelstvo: Piter"
